@@ -1,0 +1,13 @@
+{
+  "author": {
+    "email": "mbarbosa@gmail.com",
+    "name": "Marcelo Barbosa"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
