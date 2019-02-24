@@ -1,5 +1,4 @@
-# Daily Coding Problem
-[![Build Status](https://travis-ci.org/marcbarbosa/daily-coding-problem.svg?branch=master)](https://travis-ci.org/marcbarbosa/daily-coding-problem)
+# Daily Coding Problem [![Build Status](https://travis-ci.org/marcbarbosa/daily-coding-problem.svg?branch=master)](https://travis-ci.org/marcbarbosa/daily-coding-problem)
 
 Solutions for Daily Coding Problem [mailing list](https://www.dailycodingproblem.com/) questions.
 
