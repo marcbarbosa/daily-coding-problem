@@ -13,3 +13,4 @@ yarn && yarn test
 2. [Array Product (Uber)](/src/daily_coding_problem_2.test.js)
 3. [Binary Tree Serialization (Google)](/src/daily_coding_problem_3.test.js)
 4. [First Missing Positive Integer (Stripe)](/src/daily_coding_problem_4.test.js)
+5. [Higher Order Function (Jane Street)](/src/daily_coding_problem_5.test.js)
