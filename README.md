@@ -16,3 +16,4 @@ yarn && yarn test
 5. [Higher Order Function (Jane Street)](/src/daily_coding_problem_5.test.js)
 6. [XOR Linked List (Google)](/src/daily_coding_problem_6.test.js)
 21. [Meeting Rooms (Snapchat)](/src/daily_coding_problem_21.test.js)
+22. [Original Sentence (Microsoft)](/src/daily_coding_problem_22.test.js)
