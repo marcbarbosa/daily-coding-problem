@@ -17,3 +17,4 @@ yarn && yarn test
 6. [XOR Linked List (Google)](/src/daily_coding_problem_6.test.js)
 21. [Meeting Rooms (Snapchat)](/src/daily_coding_problem_21.test.js)
 22. [Original Sentence (Microsoft)](/src/daily_coding_problem_22.test.js)
+23. [Shortest Path In A Binary Maze (Google)](/src/daily_coding_problem_23.test.js)
