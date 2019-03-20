@@ -21,3 +21,4 @@ yarn && yarn test
 | 22 | [Original Sentence](/src/daily_coding_problem_22.test.js) | Microsoft |
 | 23 | [Shortest Path In A Binary Maze](/src/daily_coding_problem_23.test.js) | Google |
 | 27 | [Balanced Brackets](/src/daily_coding_problem_27.test.js) | Facebook |
+| 29 | [Run-Length Encoding/Decoding](/src/daily_coding_problem_29.test.js) | Amazon |
