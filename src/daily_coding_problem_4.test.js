@@ -18,7 +18,7 @@ const missingPositiveInteger = (arr) => {
 
   while (i < size) {
     if (arr[i] > 0 && arr[i] <= size && arr[i] !== arr[arr[i] - 1]) {
-      let temp = arr[arr[i] - 1]
+      const temp = arr[arr[i] - 1]
       arr[arr[i] - 1] = arr[i]
       arr[i] = temp
     } else {

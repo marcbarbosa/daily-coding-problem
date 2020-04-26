@@ -42,7 +42,7 @@ class XorLinkedList {
     let previous = this.root
     let next = dereferencePointer(this.root.both)
     while (i++ < index && next) {
-      let temp = next
+      const temp = next
       next = dereferencePointer(getPointer(previous) ^ next.both)
       previous = temp
     }
@@ -59,7 +59,7 @@ const getPointer = (node) => NODE_ADDR[node ? node.value : 0]
 const dereferencePointer = (addr) => MAP[addr]
 
 beforeEach(() => {
-  MAP = [ null ]
+  MAP = [null]
 })
 
 test('#1', () => {

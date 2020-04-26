@@ -4,7 +4,7 @@ Solutions for Daily Coding Problem [mailing list](https://www.dailycodingproblem
 
 ### How to run
 ```
-yarn && yarn test
+npm i && npm t
 ```
 
 ### Index

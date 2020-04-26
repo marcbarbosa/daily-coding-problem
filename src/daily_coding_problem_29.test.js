@@ -17,7 +17,7 @@ const encode = (str) => {
   let count = 0
   let lastChar = str[0]
 
-  for (let c of str) {
+  for (const c of str) {
     if (c !== lastChar) {
       result += `${count}${lastChar}`
       count = 0
@@ -35,7 +35,7 @@ const decode = (str) => {
   let result = ''
   let countStr = ''
 
-  for (let c of str) {
+  for (const c of str) {
     if (isNaN(c)) {
       result += c.repeat(parseInt(countStr), 10)
       countStr = ''
